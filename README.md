@@ -46,9 +46,18 @@ I’m a Computer Science student interested in the intersection of software engi
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat\&logo=Matplotlib\&logoColor=black)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=EHMoeini&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=EHMoeini&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=EHMoeini&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+#  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=EHMoeini&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" width="55%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EHMoeini&theme=tokyonight&hide_border=true" width="55%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=EHMoeini&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="45%" />
+</p>
 
 

@@ -34,7 +34,7 @@ I enjoy both the theoretical side of computer science and the process of turning
 
 <p align="center">
   <a href="mailto:eh.moeini@gmail.com">
-    <img src="./icons8-gmail-logo.gif" width="60" height="60" alt="Email">
+    <img src="./icons8-gmail-logo.gif" width="53" height="55" alt="Email">
   </a>
   &nbsp;&nbsp;&nbsp;
  <a href="YOUR_LINKEDIN_URL" target="_blank">

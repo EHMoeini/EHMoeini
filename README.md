@@ -34,12 +34,13 @@ I enjoy both the theoretical side of computer science and the process of turning
 
 <p align="center">
   <a href="mailto:eh.moeini@gmail.com">
-    <img src="./icons8-gmail-logo.gif" width="53" height="55" alt="Email">
+    <img src="./icons8-gmail-logo.gif" width="55" height="55" alt="Email">
   </a>
   &nbsp;&nbsp;&nbsp;
- <a href="www.linkedin.com/in/ehsan-moeini" target="_blank">
+  <a href="https://www.linkedin.com/in/ehsan-moeini" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
-         width="60"
+         width="53"
+         height="53"
          alt="LinkedIn">
   </a>
 </p>

@@ -37,7 +37,7 @@ I enjoy both the theoretical side of computer science and the process of turning
     <img src="./icons8-gmail-logo.gif" width="53" height="55" alt="Email">
   </a>
   &nbsp;&nbsp;&nbsp;
- <a href="YOUR_LINKEDIN_URL" target="_blank">
+ <a href="www.linkedin.com/in/ehsan-moeini" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
          width="60"
          alt="LinkedIn">

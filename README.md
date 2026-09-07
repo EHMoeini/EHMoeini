@@ -52,7 +52,9 @@ I enjoy both the theoretical side of computer science and the process of turning
 ## Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EHMoeini&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EHMoeini&theme=tokyonight"
+       width="650"
+       alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">

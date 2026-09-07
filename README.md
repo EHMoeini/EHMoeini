@@ -49,10 +49,14 @@ I enjoy both the theoretical side of computer science and the process of turning
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7AA2F7&height=2&section=header" width="70%">
 </p>
 
-## GitHub Analytics
+## Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EHMoeini&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7AA2F7&height=2&section=header" width="70%">
 </p>
 
 
